@@ -675,6 +675,7 @@ hr {
 
   .sm-padded-img { padding: 0 0 0 5%;}
   .sm-padded-t-xl { padding-top: 15%; }
+  .sm-padded-tb { padding: 5% 0 5% 0;}
 
   .sm-margin-b-0 { margin-bottom: 0; }
   .sm-margin-t-1 {margin-top: 1rem; }
