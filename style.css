@@ -730,6 +730,8 @@ hr {
     font-size: 1rem;
   }
 
+  .order-1 {order: 2;}
+  .order-2 {order: 1;}
 
 }
 
