@@ -659,6 +659,8 @@ hr {
   #cookie-notice {
     width: 50%;
   }
+
+  .sm-padded-img { padding: 0 0 0 5%;}
 }
 
 /* ------------------- SM Media Query (48em / 768px) --------------- */ 
@@ -673,7 +675,7 @@ hr {
 
   .sm-text-center { text-align: center; }
 
-  .sm-padded-img { padding: 0 0 0 5%;}
+  .sm-padded-img { padding: 5% 15% 0% 15%;}
   .sm-padded-t-xl { padding-top: 15%; }
   .sm-padded-tb { padding: 5% 0 5% 0;}
 
@@ -763,8 +765,6 @@ hr {
     }
 
     .xs-vh30{ min-height: 30vh;}
-
-    .sm-padded-img { padding: 5% 15% 0% 15%;}
 
     #cookie-notice {
       width: calc(100% - 2rem);
