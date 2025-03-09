@@ -571,6 +571,8 @@ hr {
   margin: 0.5rem;
 }
 
+#footer .margin-b-neg{margin-bottom: -1rem;}
+
 /* --------------- Negative Space Utility Classes  ---------------------- */ 
 .capped-width           { max-width: 1000px; margin: auto; overflow: hidden;}
 
