@@ -587,6 +587,7 @@ hr {
 /* Padding Utility Classes */ 
 .padded    { padding: 5%;   }
 .padded-lg { padding: 10%;  }
+.padded-b-lg{padding-bottom: 10%;}
 
 .padded-0  {padding: 0;}
 .padded-1  { padding: 1rem; }
