@@ -55,7 +55,8 @@ function eraseCookie(name) {
 }
 
 function runCookiedCodes() {
-  // Add tracking scripts here
+// ---------------------- Add tracking scripts here ----------------------
+
 
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -63,7 +64,7 @@ function runCookiedCodes() {
 
   gtag('config', 'G-J7H2CWH1P8');
 
-   // End tracking scripts
+// ---------------------- End tracking scripts ----------------------
 
   console.log("cookies ran");
 }

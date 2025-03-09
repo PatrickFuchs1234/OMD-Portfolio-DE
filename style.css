@@ -300,6 +300,13 @@ form .button:hover {
   font-size: 1.1rem;
 }
 
+.md-style li{
+  margin-left: 2rem;
+  margin-bottom: 0.5rem;
+  padding-left: 1rem;
+  margin-right: 5rem;
+}
+
 /* ------------ Cookie banner Styles  ----------------------- */
 #cookie-notice {
   display: none;

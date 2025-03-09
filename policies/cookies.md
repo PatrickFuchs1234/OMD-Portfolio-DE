@@ -31,6 +31,8 @@ Einige Cookies stellen sicher, dass Teile unserer Website richtig funktionieren 
 #### 5.2 Analytische Cookies
 Wir verwenden analytische Cookies, um das Website-Erlebnis für unsere Nutzer zu optimieren. Mit diesen analytischen Cookies erhalten wir Einblicke in die Nutzung unserer Website. Wir bitten um deine Erlaubnis, analytische Cookies zu setzen.
 
+Unsere Website verwendet Google Analytics 4 (GA4), einen Webanalyse-Service von Google Inc. Google Analytics verwendet Cookies, um uns zu helfen, zu analysieren, wie Nutzer mit unserer Website interagieren. Die durch diese Cookies generierten Informationen (einschließlich Ihrer IP-Adresse) werden an die Server von Google übertragen und dort gespeichert. Wir haben Google Analytics so konfiguriert, dass IP-Adressen anonymisiert werden, um den GDPR-Vorgaben zu entsprechen. Das Tracking durch Google Analytics kann deaktiviert werden, indem die Cookie-Einstellungen angepasst oder die Opt-out-Tools von Google verwendet werden.
+
 #### 5.3 Marketing- / Tracking-Cookies
 Marketing- / Tracking-Cookies sind Cookies oder eine andere Form der lokalen Speicherung, die zur Erstellung von Benutzerprofilen verwendet werden, um Werbung anzuzeigen oder den Benutzer auf dieser Website oder über mehrere Websites hinweg für ähnliche Marketingzwecke zu verfolgen.
 
@@ -38,6 +40,7 @@ Marketing- / Tracking-Cookies sind Cookies oder eine andere Form der lokalen Spe
 Unsere Website verwendet ausschließlich ein funktionales Cookie, das vom Cookie-Banner gesetzt wird, um deine Cookie-Präferenzen zu speichern:
 
 - cookie_consent (Speichert deine Cookie-Einstellungen, damit du nicht bei jedem Besuch erneut gefragt wirst.)
+- Google Analytics 4 Cookies (Wird verwendet, um den Website-Verkehr und das Nutzerverhalten zu analysieren, nur mit Zustimmung gesetzt.)
 
 ## 7. Zustimmung
 Wenn du unsere Website das erste Mal besuchst, zeigen wir dir ein Pop-Up mit einer Erklärung über Cookies. Sobald du auf „Einstellungen speichern“ klickst, gibst du uns dein Einverständnis, alle von dir gewählten Kategorien von Cookies und Plugins wie in dieser Cookie-Erklärung beschrieben zu verwenden. Du kannst die Verwendung von Cookies über deinen Browser deaktivieren, aber bitte beachte, dass unsere Website dann unter Umständen nicht richtig funktioniert. 
