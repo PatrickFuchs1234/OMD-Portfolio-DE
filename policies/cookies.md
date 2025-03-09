@@ -37,7 +37,7 @@ Marketing- / Tracking-Cookies sind Cookies oder eine andere Form der lokalen Spe
 ## 6. Platzierte Cookies  
 Unsere Website verwendet ausschließlich ein funktionales Cookie, das vom Cookie-Banner gesetzt wird, um deine Cookie-Präferenzen zu speichern:
 
-cookie_consent (Speichert deine Cookie-Einstellungen, damit du nicht bei jedem Besuch erneut gefragt wirst.)
+- cookie_consent (Speichert deine Cookie-Einstellungen, damit du nicht bei jedem Besuch erneut gefragt wirst.)
 
 ## 7. Zustimmung
 Wenn du unsere Website das erste Mal besuchst, zeigen wir dir ein Pop-Up mit einer Erklärung über Cookies. Sobald du auf „Einstellungen speichern“ klickst, gibst du uns dein Einverständnis, alle von dir gewählten Kategorien von Cookies und Plugins wie in dieser Cookie-Erklärung beschrieben zu verwenden. Du kannst die Verwendung von Cookies über deinen Browser deaktivieren, aber bitte beachte, dass unsere Website dann unter Umständen nicht richtig funktioniert. 
