@@ -9,9 +9,9 @@ seo:
     'Landing Page Design', 'UX/UI Design', 'SEO freundliche Websites', 'E-Commerce Webdesign', 
     'Webdesign für Restaurants', 'Webdesign für Kreative', 'Minimalistisches Webdesign', 'HTML und CSS'
   ]
-  social_image: /images/favicon.png
+  social_image: /images/logo.png
   author: Jenny & Patrick
-  favicon_image: /images/favicon.png
+  favicon_image: /images/logo.png
 
 social:
   instagram_username: https://www.instagram.com/onememory.design

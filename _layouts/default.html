@@ -19,6 +19,28 @@
         <meta name="robots" content="index, follow">
     {% endif %}
 
+    <!-- LD JSON für SEO -->
+    <<script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "OnememoryDesign",
+          "url": "https://at.onememorydesign.com",
+          "logo": "https://at.onememorydesign.com/images/logo.png",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "email": "hello@onememorydesign.com",
+            "contactType": "Allgemeine Anfragen",
+            "areaServed": ["AT", "DE", "CH"],
+            "availableLanguage": "Deutsch"
+          },
+          "sameAs": [
+            "https://www.instagram.com/onememory.design",
+            "https://www.facebook.com/profile.php?id=61572833130208",
+            "https://www.pinterest.com/onememorydesign/"
+          ]
+        }
+    </script>
 
     <!------------  Social media sharing META Tags ------------>
     <meta property="og:title" content="{{ page.title | default: site.data.site-settings.seo.title }}">
