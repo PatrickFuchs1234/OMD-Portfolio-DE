@@ -1,0 +1,19 @@
+seo: 
+  site_name: OnememoryDesign. | Webdesign & Development
+  title: OnememoryDesign.
+  description: Professionelles Webdesign & Webentwicklung – maßgeschneiderte, responsive und SEO-optimierte Webseiten für Unternehmen, Freelancer und kreative Branchen.
+  keywords: [
+    'Webdesign', 'Webdesign Agentur', 'Webentwicklung', 'Responsive Webdesign', 'SEO-optimiertes Webdesign', 
+    'Website erstellen lassen', 'Professionelle Website', 'Modernes Webdesign', 'Individuelle Webentwicklung', 
+    'WordPress Webdesign', 'Webdesign für Unternehmen', 'Freelancer Webdesign', 'Webdesign für Startups', 
+    'Landing Page Design', 'UX/UI Design', 'SEO freundliche Websites', 'E-Commerce Webdesign', 
+    'Webdesign für Restaurants', 'Webdesign für Kreative', 'Minimalistisches Webdesign'
+  ]
+  social_image: /images/favicon.png
+  author: Jenny & Patrick
+  favicon_image: /images/favicon.png
+
+social:
+  instagram_username: https://www.instagram.com/onememory.design
+  facebook_url: https://www.facebook.com/profile.php?id=61572833130208
+  pinterest: https://www.pinterest.com/onememorydesign/
