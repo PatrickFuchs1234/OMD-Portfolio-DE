@@ -278,8 +278,8 @@ seo:
   </div>
 </section>
 
-<!----------------------- Latest Projects ----------------------------->
-<section class="bg-v-light">
+<!-- --------------------- Latest Projects --------------------------- -->
+<!-- <section class="bg-v-light">
   <div class="padded capped-width">
     <div class="padded margin-t">
       <div class="sm-text-center">
@@ -294,6 +294,33 @@ seo:
           <a href="{{project.link}}" target="_blank">
           <div class="bg-image square" style="background-image: url('/images/demo-projects/{{project.image}}');"></div>
           </a>
+        </div> 
+
+      {% endfor %}
+      </div>
+
+    </div>
+  </div>
+
+</section> -->
+
+<!----------------------- Latest Projects 2 ----------------------------->
+<section class="bg-v-light">
+  <div class="padded capped-width">
+    <div class="padded margin-t">
+      <div class="sm-text-center">
+        <h2>Neueste Projekte</h2>
+      </div>
+
+      <div class="slider-container"> 
+
+      {% for project in page.projects %}
+
+        <div class="slider-item"> 
+          <a href="{{project.link}}" target="_blank">
+          <div class="bg-image square lozad" data-background-image="/images/demo-projects/{{ project.image }}" 
+          alt="Projektbild von Portfolio-Website">
+        </div></a>
         </div> 
 
       {% endfor %}

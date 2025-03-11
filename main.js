@@ -1,3 +1,13 @@
+  // Initialisiere lozad.js für Lazy Loading
+  const observer = lozad('.lozad', {
+    loaded: (el) => {
+      // Sobald das Element in den sichtbaren Bereich kommt, setzen wir das Hintergrundbild
+      el.style.backgroundImage = `url(${el.getAttribute('data-background-image')})`;
+    }
+  });
+  observer.observe();
+
+  // slick slider
 $('.slider-container').slick({
   autoplay: true,        // Do we want it to autoplay? true or false
 	autoplaySpeed: 2000,   // How long between each slide when autoplaying
