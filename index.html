@@ -259,14 +259,14 @@ seo:
         </p>
       </div>
       <div class="col-4_sm-12-middle padded-lr-1 sm-padded-img">
-        <div class="bg-image square" style="background-image: url('/images/jenny.webp');"></div>
+        <div class="lozad bg-image square fade" data-background-image="/images/jenny.webp" alt="Jenny Webdesignerin und Webdeveloperin"></div>
       </div>
     </div>
 
     <!-- patrick -->
      <div class="grid padded">
         <div class="col-4_sm-12-middle padded-lr-1 sm-padded-img order-1">
-          <div class="bg-image square" style="background-image: url('/images/patrick.webp');"></div>
+          <div class="lozad bg-image square fade" data-background-image="/images/patrick.webp" alt="Patrick Webdesigner und Webdeveloper"></div>
         </div>
         <div class="col-8-bottom_sm-12 padded-lr-1 sm-padded-tb order-2">
           <h5>Patrick | Webdesign & Development </h5>
@@ -278,33 +278,7 @@ seo:
   </div>
 </section>
 
-<!-- --------------------- Latest Projects --------------------------- -->
-<!-- <section class="bg-v-light">
-  <div class="padded capped-width">
-    <div class="padded margin-t">
-      <div class="sm-text-center">
-        <h2>Neueste Projekte</h2>
-      </div>
-
-      <div class="slider-container"> 
-
-      {% for project in page.projects %}
-
-        <div class="slider-item"> 
-          <a href="{{project.link}}" target="_blank">
-          <div class="bg-image square" style="background-image: url('/images/demo-projects/{{project.image}}');"></div>
-          </a>
-        </div> 
-
-      {% endfor %}
-      </div>
-
-    </div>
-  </div>
-
-</section> -->
-
-<!----------------------- Latest Projects 2 ----------------------------->
+<!----------------------- Latest Projects ----------------------------->
 <section class="bg-v-light">
   <div class="padded capped-width">
     <div class="padded margin-t">
@@ -318,7 +292,7 @@ seo:
 
         <div class="slider-item"> 
           <a href="{{project.link}}" target="_blank">
-          <div class="bg-image square lozad" data-background-image="/images/demo-projects/{{ project.image }}" 
+          <div class="lozad bg-image square fade" data-background-image="/images/demo-projects/{{ project.image }}" 
           alt="Projektbild von Portfolio-Website">
         </div></a>
         </div> 

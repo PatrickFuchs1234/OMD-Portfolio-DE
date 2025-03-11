@@ -1,6 +1,7 @@
   // Initialisiere lozad.js für Lazy Loading
   const observer = lozad('.lozad', {
     loaded: (el) => {
+      el.classList.add('lozad'); // Wenn das Bild geladen ist, füge die Klasse 'lozad' hinzu
       // Sobald das Element in den sichtbaren Bereich kommt, setzen wir das Hintergrundbild
       el.style.backgroundImage = `url(${el.getAttribute('data-background-image')})`;
     }

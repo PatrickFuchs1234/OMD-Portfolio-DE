@@ -571,6 +571,15 @@ hr {
   color: var(--featured); 
 }
 
+/* Lazyload -Fade-in-Effekt für Bilder */
+.fade {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.lozad {
+  opacity: 1; /* Wenn das Bild geladen ist, wird es eingeblendet */
+}
 
 /* ------- Footer Styles --------- */
 #footer h4{
