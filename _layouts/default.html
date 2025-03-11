@@ -19,6 +19,15 @@
         <meta name="robots" content="index, follow">
     {% endif %}
 
+
+    <!------------  Social media sharing META Tags ------------>
+    <meta property="og:title" content="{{ page.title | default: site.data.site-settings.seo.title }}">
+    <meta property="og:description" content="{{ page.seo.description | default: site.data.site-settings.seo.description }}"> 
+    <meta property="og:image" content="{{ page.seo.social_image | default: site.data.site-settings.seo.social_image }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta name="og:site_name" content="{{ site.data.site-settings.seo.site_name }}">
+    <link rel="icon" type="image/png" href="{{ site.data.site-settings.seo.favicon_image }}">
+
     <!-- favicon -->
     <link rel="icon" type="image/png" href="/images/icons/favicon/favicon-96x96.png" sizes="96x96" />
     <link rel="icon" type="image/svg+xml" href="/images/icons/favicon/favicon.svg" />
