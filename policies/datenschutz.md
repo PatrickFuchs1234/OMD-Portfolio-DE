@@ -156,7 +156,7 @@ Sie können die Speicherung von Cookies auch von vornherein durch eine entsprech
 a. Ihre Einwilligung in das Setzen des Cookies nicht erteilen oder 
 b. das Browser-Add-on zur Deaktivierung von Google Analytics [HIER](https://tools.google.com/dlpage/gaoptout?hl=de){:target="_blank"} herunterladen und installieren. 
 
-Nähere Informationen zu Nutzungsbedingungen von Google Analytics und zum Datenschutz bei Google finden Sie unter [Privacy & Terms](https://policies.google.com/?hl=en){:target="_blank"}.. 
+Nähere Informationen zu Nutzungsbedingungen von Google Analytics und zum Datenschutz bei Google finden Sie unter [Privacy & Terms](https://policies.google.com/?hl=en){:target="_blank"}.
 
 #### Auftragsdatenverarbeitung 
 Wir haben mit Google einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen und setzen die Vorgaben der österreichischen Datenschutzbehörde bei der Nutzung von Google Analytics vollständig um. 
